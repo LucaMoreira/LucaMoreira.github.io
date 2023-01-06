@@ -520,6 +520,21 @@ section .container {
   background-color: var(--main_color);
 }
 
+.skills .card {
+  background: rgba(255, 255, 255, 0.08);
+  margin-top: 30px;
+}
+
+#certificate-btn:hover {
+  background: red;
+}
+
+.skills .btn-danger {
+  color: white;
+  border-color: red;
+  background: rgba(255, 255, 255, 0.08);
+}
+
 /*--------------------------------------------------------------
 # Interests
 --------------------------------------------------------------*/
